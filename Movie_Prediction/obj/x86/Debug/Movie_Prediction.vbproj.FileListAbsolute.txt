@@ -1,0 +1,22 @@
+C:\Users\DELL\AppData\Local\Temporary Projects\Movie_Prediction\bin\Debug\Movie_Prediction.exe
+C:\Users\DELL\AppData\Local\Temporary Projects\Movie_Prediction\bin\Debug\Movie_Prediction.pdb
+C:\Users\DELL\AppData\Local\Temporary Projects\Movie_Prediction\bin\Debug\Movie_Prediction.xml
+C:\Users\DELL\AppData\Local\Temporary Projects\Movie_Prediction\obj\x86\Debug\Movie_Prediction.Form1.resources
+C:\Users\DELL\AppData\Local\Temporary Projects\Movie_Prediction\obj\x86\Debug\Movie_Prediction.Resources.resources
+C:\Users\DELL\AppData\Local\Temporary Projects\Movie_Prediction\obj\x86\Debug\Movie_Prediction.vbproj.GenerateResource.Cache
+C:\Users\DELL\AppData\Local\Temporary Projects\Movie_Prediction\obj\x86\Debug\Movie_Prediction.exe
+C:\Users\DELL\AppData\Local\Temporary Projects\Movie_Prediction\obj\x86\Debug\Movie_Prediction.xml
+C:\Users\DELL\AppData\Local\Temporary Projects\Movie_Prediction\obj\x86\Debug\Movie_Prediction.pdb
+C:\Users\DELL\AppData\Local\Temporary Projects\Movie_Prediction\obj\x86\Debug\Movie_Prediction.Form2.resources
+C:\Users\DELL\documents\visual studio 2010\Projects\Movie_Prediction\Movie_Prediction\obj\x86\Debug\Movie_Prediction.exe
+C:\Users\DELL\documents\visual studio 2010\Projects\Movie_Prediction\Movie_Prediction\obj\x86\Debug\Movie_Prediction.xml
+C:\Users\DELL\documents\visual studio 2010\Projects\Movie_Prediction\Movie_Prediction\obj\x86\Debug\Movie_Prediction.pdb
+C:\Users\DELL\documents\visual studio 2010\Projects\Movie_Prediction\Movie_Prediction\bin\Debug\Movie_Prediction.exe
+C:\Users\DELL\documents\visual studio 2010\Projects\Movie_Prediction\Movie_Prediction\bin\Debug\Movie_Prediction.pdb
+C:\Users\DELL\documents\visual studio 2010\Projects\Movie_Prediction\Movie_Prediction\bin\Debug\Movie_Prediction.xml
+C:\Users\DELL\documents\visual studio 2010\Projects\Movie_Prediction\Movie_Prediction\obj\x86\Debug\Movie_Prediction.Form1.resources
+C:\Users\DELL\documents\visual studio 2010\Projects\Movie_Prediction\Movie_Prediction\obj\x86\Debug\Movie_Prediction.Form2.resources
+C:\Users\DELL\documents\visual studio 2010\Projects\Movie_Prediction\Movie_Prediction\obj\x86\Debug\Movie_Prediction.Resources.resources
+C:\Users\DELL\documents\visual studio 2010\Projects\Movie_Prediction\Movie_Prediction\obj\x86\Debug\Movie_Prediction.vbproj.GenerateResource.Cache
+C:\Users\DELL\documents\visual studio 2010\Projects\Movie_Prediction\Movie_Prediction\obj\x86\Debug\Movie_Prediction.Form3.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\Movie_Prediction\Movie_Prediction\obj\x86\Debug\Movie_Prediction.vbprojResolveAssemblyReference.cache
